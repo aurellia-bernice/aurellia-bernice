@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @aurellia-bernice
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? via email ekechibern@gmail.com
+- 📫 How to reach me? via email ekechi.bernice@stu.cu.edu.ng
+-
 
 <!---
 aurellia-bernice/aurellia-bernice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
